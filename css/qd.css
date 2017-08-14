@@ -1,0 +1,22 @@
+span{
+	color: blue;
+}
+body nav{
+	float:right;
+    margin-top: 50px;
+}
+
+body {
+    background-color:aqua;
+}
+div{
+	height:3750px;
+	width:800px;
+	background-color:white;
+	margin:auto;
+}
+.wrapper{
+	border-radius:20px;
+	padding:20px;
+	height:100%;
+}
